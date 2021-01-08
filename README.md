@@ -34,5 +34,4 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 ## Contact Information
 
-_Email: mekinsie.aja@gmail.com_
-_Phone: (503) 806 1786_
+Reach me: via <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>.

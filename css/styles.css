@@ -14,3 +14,9 @@ h3 {
   color: #22577A;
 }
 
+.box1 {
+  align-items: center;
+  width: 40%;
+  margin: auto;
+  box-sizing: border-box;
+}
