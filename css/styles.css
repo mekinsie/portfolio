@@ -1,10 +1,16 @@
 body {
   background-image: linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
-  background-color: #c7F9CC;
   font-family: 'Nunito', sans-serif;
+  height:100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 h1 {
   color: #C7F9CC;
+}
+.center {
+  text-align: center;
 }
 .body-text {
   color: #22577A;
@@ -12,10 +18,18 @@ h1 {
 h3 {
   color: #38A3a5;
 }
-.box1 {
-  align-items: center;
+.box {
   width: 40%;
   margin: auto;
   box-sizing: border-box;
   padding: 30px;
+  background-image: linear-gradient(#c7f99c, #80ed99);
+  border-radius:25px;
+}
+
+img {
+  width: 30%;
+  float: right;
+  padding: 2%;
+  border-radius:20px;
 }
