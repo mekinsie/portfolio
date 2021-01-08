@@ -2,21 +2,19 @@ h1 {
   color: white;
 }
 body {
+  background-image: linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
   background-color: #c7F9CC;
 }
-p {
+.body-text {
   color: #22577A;
 }
 h3 {
   color: #38A3a5;
 }
-.about-me {
-  color: #22577A;
-}
-
 .box1 {
   align-items: center;
   width: 40%;
   margin: auto;
   box-sizing: border-box;
+  padding: 30px;
 }
