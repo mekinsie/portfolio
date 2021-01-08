@@ -1,8 +1,8 @@
-# _{My Portfolio}_
+# _My Portfolio_
 
-#### _{A collection of my best works}_
+#### _A collection of my best works_
 
-#### By _**{Mekinsie Callahan}**_
+#### By _**Mekinsie Callahan**_
 
 ## Technologies Used
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is a collection of my current best works.}_
+_This is a collection of my current best works._
 
 ## Setup/Installation Requirements
 
@@ -34,5 +34,5 @@ _{Let people know what to do if they run into any issues or have questions, idea
 
 ## Contact Information
 
-_{Email: mekinsie.aja@gmail.com}_
-_{Phone: (503) 806 1786}_
+_Email: mekinsie.aja@gmail.com_
+_Phone: (503) 806 1786_
