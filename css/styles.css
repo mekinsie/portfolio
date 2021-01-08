@@ -1,9 +1,10 @@
-h1 {
-  color: white;
-}
 body {
   background-image: linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
   background-color: #c7F9CC;
+  font-family: 'Nunito', sans-serif;
+}
+h1 {
+  color: #C7F9CC;
 }
 .body-text {
   color: #22577A;
