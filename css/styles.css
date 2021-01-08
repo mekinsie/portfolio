@@ -1,15 +1,16 @@
 h1 {
   color: white;
 }
-
-p {
-  color:rgb(231, 164, 41);
-}
-
-h3 {
-  color:white;
-}
-
 body {
-  background-color: #a5f3f3;
+  background-color: #c7F9CC;
 }
+p {
+  color: #22577A;
+}
+h3 {
+  color: #38A3a5;
+}
+.about-me {
+  color: #22577A;
+}
+
