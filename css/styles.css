@@ -9,6 +9,15 @@ body {
 h1 {
   color: #C7F9CC;
 }
+img {
+  width: 30%;
+  float: right;
+  padding: 2%;
+  border-radius:20px;
+}
+a {
+  color:cadetblue;
+}
 .center {
   text-align: center;
 }
@@ -26,10 +35,10 @@ h3 {
   background-image: linear-gradient(#c7f99c, #80ed99);
   border-radius:25px;
 }
-
-img {
-  width: 30%;
-  float: right;
-  padding: 2%;
-  border-radius:20px;
+.box a {
+  font-weight:bold;
+}
+.box ol p {
+  font-style:italic;
+  font-size: small;
 }
