@@ -35,3 +35,5 @@ _{Let people know what to do if they run into any issues or have questions, idea
 ## Contact Information
 
 Reach me: via <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>.
+
+Checkout my <a href="https://github.com/mekinsie" target="_blank">github</a>.
