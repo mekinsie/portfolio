@@ -1,10 +1,11 @@
 body {
-  background-image: linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
+  background:  url(port-background.png), linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
   font-family: 'Nunito', sans-serif;
   height:100%;
   margin: 0;
   background-repeat: no-repeat;
   background-attachment: fixed;
+
 }
 h1 {
   color: #C7F9CC;

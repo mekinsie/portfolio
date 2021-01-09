@@ -1,6 +1,6 @@
 # _My Portfolio_
 
-#### _A collection of my best works_
+#### _A webpage that contains a collection of my current works_
 
 #### By _**Mekinsie Callahan**_
 
@@ -12,17 +12,18 @@
 
 ## Description
 
-_This is a collection of my current best works._
+_This portfolio contains an about me, background, list of current works, and my contact information. I created it to showcase my skills as a developer and designer._
 
 ## Setup/Installation Requirements
+* _My portfolio can be viewed on <a href="mekinsie.github/io/portfolio" target="_blank">github pages</a>._
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Go to https://github.com/mekinsie/portfolio_
+* _Navigate to and click the green "Code" button on middle upper right part of webpage._
+* _Copy the HTTPs address to your clipboard._
+* _Open terminal or bash and navigate to the directory you wish to download the repo to._
+* _Type into the terminal "git clone [paste HTTPs address] and press enter._
+* _Open the file named "index.html" in the directory you just downloaded the repo to. This will open the portfolio page in your default web browser._
 
 ## Known Bugs
 
@@ -30,7 +31,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_GPL_
 
 ## Contact Information
 
