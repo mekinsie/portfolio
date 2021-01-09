@@ -15,7 +15,7 @@
 _This portfolio contains an about me, background, list of current works, and my contact information. I created it to showcase my skills as a developer and designer._
 
 ## Setup/Installation Requirements
-* _My portfolio can be viewed on <a href="mekinsie.github/io/portfolio" target="_blank">github pages</a>._
+* _My portfolio can be viewed on <a href="https://mekinsie.github.io/portfolio" target="_blank">github pages</a>._
 
 
 * _Go to https://github.com/mekinsie/portfolio_
