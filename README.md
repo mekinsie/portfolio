@@ -17,6 +17,7 @@ _This portfolio contains an about me, background, list of current works, and my 
 ## Setup/Installation Requirements
 * _My portfolio can be viewed on <a href="https://mekinsie.github.io/portfolio" target="_blank">github pages</a>._
 
+OR
 
 * _Go to https://github.com/mekinsie/portfolio_
 * _Navigate to and click the green "Code" button on middle upper right part of webpage._
