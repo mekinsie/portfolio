@@ -1,5 +1,5 @@
 body {
-  background:  url(port-background.png), linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
+  background:  url("port-background.png"), linear-gradient(#c7F9CC,#c7F9CC,#c7F9CC,#80ed99);
   font-family: 'Nunito', sans-serif;
   height:100%;
   margin: 0;
