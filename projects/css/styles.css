@@ -1,0 +1,72 @@
+.ruby {
+  display: none;
+}
+.python{
+  display: none;
+}
+.csharp {
+  display: none;
+}
+.form {
+  display: none;
+}
+.header {
+  text-align: center;
+  margin-top: 70px;
+}
+body {
+  background-color:#212121;
+  font-family: 'Inconsolata', monospace;
+}
+p, h3 {
+  color:white;
+}
+h3 {
+  margin-top: 30px;
+}
+.form {
+  background-color: rgb(48, 48, 48);
+  box-sizing: border-box;
+  border-radius: 25px;
+  border-color: rgb(138, 138, 138);
+  border-style: double;
+  width: 500px;
+  margin: auto;
+}
+.box{
+  margin-top: 25px;
+  text-align: center;
+}
+.box2 {
+  width: 700px;
+  box-sizing: border-box;
+  margin: auto;
+
+}
+.form select {
+  background-color: transparent;
+  box-sizing: border-box;
+  border-radius:  10px;
+  color:rgb(41, 236, 41);
+  width: 130px;
+}
+.form .select-selected {
+  background-color: transparent;
+  box-sizing: border-box;
+  border-radius:  10px;
+  color: white;
+}
+label {
+  margin-bottom: 30px;
+  margin-right:5px;
+  margin-left:30px;
+  color:rgb(41, 236, 41);
+}
+input[type=submit] {
+  border-radius: 10px;
+  width: 70px;
+  text-align: center;
+  margin: auto;
+  display:block;
+  margin-bottom: 20px;
+}

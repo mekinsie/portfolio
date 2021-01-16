@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <script src="js/jquery-3.5.1.js"></script>
+  <script src="js/scripts.js"></script>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap" rel="stylesheet">
+  <title>Suggested Language</title>  
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <p>Unsure about what programming language to learn? Complete this quiz to determine the best fit language for you.</p>
+    </div>
+    <div class="form">
+      <div class="box1">
+        <form>
+          <label>Have you coded before?</label>
+          <label for="codeyes">yes</label>
+          <input id="codeyes" name="code" type="radio"  value="1" checked="checked"> 
+          <label for="codeno">no</label>
+          <input id="codeno" name="code" type="radio"  value="0">
+          <br>
+          <label>Do you have a pet?</label>
+          <label for="petyes">yes</label>
+          <input id="petyes" name="pet" type="radio"  value="1" checked="checked">
+          <label for="petno">no</label>
+          <input id="petno" name="pet" type="radio"  value="0">
+          <br>
+          <label for="hand">What is your dominant hand?</label>
+          <select id ="hand" name="hand">
+            <option value="1">Right</option>
+            <option value="2">Left</option>
+            <option value="0">Ambidextrous</option>
+          </select>
+          <br>
+          <label for="coffee">Do you drink coffee?</label>
+          <select id="coffee" name ="coffee" >
+            <option value="1">Yes</option>
+            <option value="2">No</option>
+            <option value="0">Sometimes</option>
+          </select>
+          <br>
+          <label for="sleep">What side do you sleep on?</label>
+          <select id="sleep" name="sleep">
+            <option value="1">Back</option>
+            <option value="2">Side</option>
+            <option value="0">Front</option>
+            <option value="3">I don't sleep</option>
+          </select>
+          <br>
+          <label for="tech">Microsoft or Apple?</label>
+          <select id="tech" name="tech">
+            <option value="1">Microsoft</option>
+            <option value="2">Apple</option>
+            <option value="0">Neither</option>
+            <option value="3">Both</option>
+          </select>
+          <br>
+          <input type="submit" value="Submit" id="submit">
+        </form>
+      </div>
+    </div>
+    <div class="box2">
+      <div class="ruby">
+        <h3>Ruby</h3>
+        <p>
+          Ruby is an interpreted, high-level, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. Ruby is dynamically typed and uses garbage collection. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, BASIC, and Lisp.<br><br>
+          Ruby is most used for building web applications. However, it is a general-purpose language similar to Python, so it has many other applications like data analysis, prototyping, and proof of concepts. Probably the most obvious implementation of Ruby is Rails web, the development framework built with Ruby.
+        </p>
+      </div>
+      <div class="python">
+        <h3>Python</h3>
+        <p>
+          Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.<br><br>
+          Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. Python is often described as a "batteries included" language due to its comprehensive standard library.
+        </p>
+      </div>
+      <div class="csharp">
+        <h3>C#</h3>
+        <p>
+          C# (pronounced see sharp, like the musical note C♯, but written with the number sign) is a general-purpose, multi-paradigm programming language encompassing static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines.<br><br>
+          C# was developed around 2000 by Microsoft as part of its .NET initiative and later approved as an international standard by Ecma (ECMA-334) in 2002 and ISO (ISO/IEC 23270) in 2003. It was designed by Anders Hejlsberg, and its development team is currently led by Mads Torgersen, being one of the programming languages designed for the Common Language Infrastructure (CLI). The most recent version is 9.0, which was released in 2020 in .NET 5.0 and included in Visual Studio 2019 version 16.8. 
+        </p>
+      </div>
+   </div>
+  </div>
+</body>
+</html>
