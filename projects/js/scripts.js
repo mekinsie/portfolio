@@ -18,11 +18,11 @@ $(document).ready(function() {
     $(".ruby").slideDown();
     $(".python, .csharp").hide();
     } 
-    else if (result = 4 && result <= 7) {
+    else if (result <= 7) {
     $(".python").slideDown();
     $(".ruby, .csharp").hide();
     } 
-    else if (result = 8 && result <= 12) {
+    else {
     $(".csharp").slideDown();
     $(".python, .ruby").hide();
     }
@@ -33,7 +33,4 @@ $(document).ready(function() {
   }, function() {
     $(this).css("background-color", "white");
   });
-  $(".header").typeIt ({
-    typeSpeed:80})
-
 });
