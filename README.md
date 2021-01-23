@@ -34,6 +34,8 @@ OR
 
 _GPL_
 
+Copyright (c) 2021 **_Mekinsie Callahan_**
+
 ## Contact Information
 
 Reach me: via <a href="https://www.linkedin.com/in/mekinsie/" target="_blank">Linkedin</a> or <a href="mailto:mekinsie.aja@gmail.com" target="_blank">email</a></li>.

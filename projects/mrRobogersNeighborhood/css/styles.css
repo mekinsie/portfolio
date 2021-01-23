@@ -1,0 +1,39 @@
+body {
+  background: url("mrRogers.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom;
+  background-size: 300px;
+  font-family: 'Roboto Mono', monospace;
+  background-color: rgb(250, 243, 243);
+}
+.container1 {
+  border: solid;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 60px;
+  padding: 20px;
+  border-color: transparent;
+  background-color:rgb(246, 231, 231) ;
+  width: 200px;
+}
+.heading {
+  text-align: center;
+  margin-top: 70px;
+  color: rgb(100, 100, 100);
+  font-weight:bolder;
+}
+.container2 {
+  display: none;
+  border: solid;
+  border-radius: 20px;
+  margin: auto;
+  margin-top: 40px;
+  padding: 20px;
+  border-color: transparent;
+  background-color:rgb(246, 231, 231) ;
+  width: 840px;
+}
+.form {
+  text-align: center;
+}
