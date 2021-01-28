@@ -1,7 +1,6 @@
 * {
   box-sizing: border-box;
 }  
-
 html {
   margin: 0;
   padding: 0;
@@ -62,10 +61,10 @@ h3 {
   font-size: small;
 }
 #me {
-  width: 30%;
+  width: 200px;
   float: right;
   padding: 2%;
-  border-radius:20px;
+  border-radius:15%;
 }
 #logo{ 
   position:absolute;
