@@ -10,13 +10,11 @@ html {
 }
 body {
   background-image: linear-gradient(rgb(255, 248, 244),rgb(255, 230, 220));
-  /* font-family:'Nunito', sans-serif; */
   font-family: 'Nanum Gothic', sans-serif;
   font-family: 'Noto Sans', sans-serif;
   font-family: 'Source Sans Pro', sans-serif;
   color: #1d5fa1;
-
-} */
+} 
 h1 {
   color: #ffffff;
 }
@@ -29,14 +27,8 @@ h2 {
 .center {
   text-align: center;
 }
-.body-text {
-  /* color: rgb(100, 119, 204); */
-  /* color: #1d5fa1; */
-  /* #003366 */
-}
 .box-head {
   width: 100%;
-  background-color: /*#ff9898*/;
   opacity: 100%;
   margin-bottom: 50px;
   height: 150px;
@@ -70,4 +62,11 @@ h2 {
   top:20px;
   left:20px;
   height: 100px;
+}
+.effect {
+  display: none;
+}
+
+.slide {
+  display:none;
 }
