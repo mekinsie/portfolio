@@ -8,15 +8,15 @@ html {
   width: 100%;
 }
 body {
-  /*background: url(shapes.png); /*linear-gradient(#fff4f4,#fff4f4,#fff4f4,#ffd4d4)*/
+  /* background: url(shapes1.png); */
+  background-position: bottom;
+  background-size: cover;
   background-color: #fff9ef;
   font-family:'Nunito', sans-serif;
   height: 100%;
   margin: 0;
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
   /*background-attachment: fixed;*/
-  background-position: center;
-  background-size: cover;
 }
 h1 {
   color: #ffffff;
