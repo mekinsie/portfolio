@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700;800&family=Noto+Sans:wght@700&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
 * {
   box-sizing: border-box;
 }  
@@ -9,20 +10,22 @@ html {
   width: 100%;
 }
 body {
-  background-image: linear-gradient(rgb(255, 248, 244),rgb(255, 230, 220));
-  font-family: 'Nanum Gothic', sans-serif;
+  background-image: linear-gradient(rgb(255, 248, 244),rgb(255, 203, 182));
+  /* font-family: 'Nanum Gothic', sans-serif;
   font-family: 'Noto Sans', sans-serif;
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #1d5fa1;
+  font-family: 'Source Sans Pro', sans-serif; */
+  font-family: 'Inconsolata', monospace;
+  color: #0d4d8d;
+  font-size: 20px;
 } 
 h1 {
   color: #ffffff;
 }
 a {
-  color:#fa5928;
+  color:#ff9114;
 }
 h2 {
-  color: #fa5928;
+  color: #fa4028;
 }
 .center {
   text-align: center;
@@ -35,21 +38,17 @@ h2 {
   background-color: Transparent;
 }
 .box {
-  width: 60%;
+  width: 65%;
   margin: auto;
   box-sizing: border-box;
   padding: 30px;
   background-color: transparent;
   border-radius:25px;
   opacity: 100%;
-  margin-bottom: 80px;
+  margin-bottom: 60px;
 }
 .box a {
   font-weight:bold;
-}
-.box ol p {
-  font-style: italic;
-  font-size: small;
 }
 #me {
   width: 220px;
@@ -66,3 +65,8 @@ h2 {
 /* .effect {
   display: none;
 } */
+
+.small-font p {
+  font-style: italic;
+  font-size: 17px;
+}
