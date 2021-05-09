@@ -9,9 +9,10 @@ html {
   width: 100%;
 }
 body {
-  background-image: linear-gradient(rgb(255, 248, 244),rgb(255, 203, 182));
+  /* background-image: linear-gradient(rgb(255, 248, 244),rgb(255, 203, 182)); */
+  background-color: white;
   font-family: 'Inconsolata', monospace;
-  color: #0d4d8d;
+  color: #0c4074;
   font-size: 20px;
   background-size: cover;
 }
