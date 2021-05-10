@@ -10,7 +10,7 @@ html {
 }
 body {
   /* background-image: linear-gradient(rgb(255, 248, 244),rgb(255, 203, 182)); */
-  background-color: white;
+  background-color: rgb(238, 234, 234);
   font-family: 'Inconsolata', monospace;
   color: #0c4074;
   font-size: 20px;
